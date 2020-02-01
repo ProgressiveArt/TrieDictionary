@@ -1,0 +1,71 @@
+C:\Andrey\Projects\Visual Studio Projects\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csprojResolveAssemblyReference.cache
+C:\Andrey\Projects\Visual Studio Projects\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csproj.CoreCompileInputs.cache
+C:\Andrey\Projects\Visual Studio Projects\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+C:\Andrey\Projects\Visual Studio Projects\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe
+C:\Andrey\Projects\Visual Studio Projects\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.pdb
+C:\Andrey\Projects\Visual Studio Projects\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+C:\Andrey\Projects\Visual Studio Projects\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+C:\Users\Boggart\Desktop\Алгоритмы\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+C:\Users\Boggart\Desktop\Алгоритмы\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe
+C:\Users\Boggart\Desktop\Алгоритмы\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.pdb
+C:\Users\Boggart\Desktop\Алгоритмы\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csprojAssemblyReference.cache
+C:\Users\Boggart\Desktop\Алгоритмы\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csproj.CoreCompileInputs.cache
+C:\Users\Boggart\Desktop\Алгоритмы\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+C:\Users\Boggart\Desktop\Алгоритмы\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+E:\English\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+E:\English\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+E:\English\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+E:\English\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe
+E:\English\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.pdb
+E:\English\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csprojResolveAssemblyReference.cache
+E:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+E:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+E:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+W:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+W:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe
+W:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.pdb
+W:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csprojAssemblyReference.cache
+W:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csproj.CoreCompileInputs.cache
+W:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+W:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+D:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+D:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe
+D:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.pdb
+D:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csprojAssemblyReference.cache
+D:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csproj.CoreCompileInputs.cache
+D:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+D:\Алгоритмы\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+C:\Users\Boggart\Desktop\Алгоритмы\08.12.2018 алгоритмы процентовка 2\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+C:\Users\Boggart\Desktop\Алгоритмы\08.12.2018 алгоритмы процентовка 2\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe
+C:\Users\Boggart\Desktop\Алгоритмы\08.12.2018 алгоритмы процентовка 2\Семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.pdb
+C:\Users\Boggart\Desktop\Алгоритмы\08.12.2018 алгоритмы процентовка 2\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csprojAssemblyReference.cache
+C:\Users\Boggart\Desktop\Алгоритмы\08.12.2018 алгоритмы процентовка 2\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csproj.CoreCompileInputs.cache
+C:\Users\Boggart\Desktop\Алгоритмы\08.12.2018 алгоритмы процентовка 2\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+C:\Users\Boggart\Desktop\Алгоритмы\08.12.2018 алгоритмы процентовка 2\Семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+D:\Trie\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+D:\Trie\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe
+D:\Trie\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.pdb
+D:\Trie\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csprojAssemblyReference.cache
+D:\Trie\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csproj.CoreCompileInputs.cache
+D:\Trie\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+D:\Trie\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+C:\Users\Boggart\Desktop\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+C:\Users\Boggart\Desktop\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe
+C:\Users\Boggart\Desktop\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.pdb
+C:\Users\Boggart\Desktop\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csprojAssemblyReference.cache
+C:\Users\Boggart\Desktop\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csproj.CoreCompileInputs.cache
+C:\Users\Boggart\Desktop\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+C:\Users\Boggart\Desktop\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+C:\Users\student\Downloads\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+C:\Users\student\Downloads\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+C:\Users\student\Downloads\ПРОЕКТ СЕМЕСТРОВАЯ\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+C:\Users\student\Downloads\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+C:\Users\student\Downloads\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+C:\Users\student\Downloads\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
+C:\Users\Frankenstein\Desktop\рабстол\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe.config
+C:\Users\Frankenstein\Desktop\рабстол\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.exe
+C:\Users\Frankenstein\Desktop\рабстол\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\bin\Debug\AlgorithmsProject.pdb
+C:\Users\Frankenstein\Desktop\рабстол\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csprojAssemblyReference.cache
+C:\Users\Frankenstein\Desktop\рабстол\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.csproj.CoreCompileInputs.cache
+C:\Users\Frankenstein\Desktop\рабстол\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.exe
+C:\Users\Frankenstein\Desktop\рабстол\Смычковского В. ПрИ - 201 Алгоритмы семестровая\AlgorithmsProject\AlgorithmsProject\obj\Debug\AlgorithmsProject.pdb
